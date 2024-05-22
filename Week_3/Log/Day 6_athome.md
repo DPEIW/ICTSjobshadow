@@ -1,0 +1,140 @@
+#ICTS #may2024 
+- was supposed to go to icts today, but we couldn't coordinate properly, so I couldn't go.
+
+- Attended Seminar at ICTS on [The Development of Mathematics in France since the late XIXth Century](https://www.icts.res.in/seminar/2024-05-21/martin-andler)
+- Notes
+	- presenters from France
+	- exchanged in 1542 bw franch and india
+	- begun with french mathematicians in india at 1930s
+	- IFCAM jointly setup by india french govts
+	- prof martin andler
+		- Mechanisms and tools of International cooperation
+			- by Srini Kaveri who is representative of CNRS of india
+				- CNRS - CISR
+				- UMR = Unite MIxte de Recherche = Joint reserach unit
+					- system is very flexible, as long as you have research it can be evaluated 
+				- in CNRS they observe every branch of science
+					- budget is over 3,7 bn euro per year
+					- 32000 staff 
+					- 55000 publications per year 60% international collaboration
+					- 6th in patent filling
+					- 23 nobel laureates
+					- 80 research labs
+					- 10 offices all over the world, many in asia
+				- Tools of cooperation with CNRS
+					- Exploring - International Emerging Actions, allows you to go and collaborate and travel, 4-5 page project 
+					- Consolidating - allows you to meet 2 times a year. discuss to create more projects, which u can submit to cnrs
+						- International Research programs - 5 year lab to lab collaborative research programmes (activities for 5 years)
+					- Structuring - International Research Laboratories, extremely powerful research collaboration, and could give good grants 
+					- Integrating - International Research Centers, multi project networks, programs, etc
+				- IFCAM has been successful, has taken through 68 projects and 7 workshops etc
+					- Very successful programs
+				- ReLaX
+					- CNRS, Universite de Bordeaux, ENSPS, 
+					- Chennai Mathematical Institute, Institute of Mathematical Sciences
+					- Centers in pondicherry and delhi
+				- International Research Networks
+				- Different Fellowships as well
+		- **Development of Mathematics in France since the late XIXthe Century** 
+			- by Martin Andler, universite de versailles saint quentin
+			- Intr XVI century
+				- Viete Descartes, Pascal, Fermat, Desargues
+			- 1789 French revolution impact
+				- were strong in 13th 14th century, but after in 18th century they closed the universities because they believed it was spreading teaching of church
+				- Ecole Polytechnique vs Ecole normale superieure
+					- polytechnique - for engineers and officers (military school)
+						- conservatory of french science
+						- dominant institute for science in france for first of 19th century
+						- the graduates are very close to mathematicians and who we know today as mathematicians in books etc
+						- 
+					- normale superieure - scientists
+						- graduates are scientists (short list)
+							- bouquet, tannery
+					- 1850 - 1870
+						- we see polytechnique's decline as a scientific institution
+						- decided in 1850 that polytechnique should abandon role of being scientific insitutions
+						- preferred to hire professors who were more practically minded eg engineers
+						- Ecole Normale Superiure slow ascent
+							- a biologist wanted normal superiure to train scientists
+						- The rise of germany as a power science
+							- Gauss, jacobi, kummer, riemann
+						- Rise of russia italy as well in mid 19th century
+					- french scientists call for action
+						- Louis Pasteur - saying that France is not yet at work, has been sleeping under shadow of past trophies
+						- Michel Chasles - two branches of science prosper in germany, england and italy but not in any french schools
+					- War played a big role in france training its officers
+					- had an impact on german as well, superiority of french army linked with superiorty of training
+					- in 1870 very few active mathematicians
+					- defeat for french after war with prussia
+					- 3rd republic's reforms
+						- in the last years of napoleon 3's reign, number of reforms had been made to foster research
+						- after 1870, there was a reform in the educational system
+							- institutional changes
+							- new buildings in france main cities
+							- new professorial chairs
+						- new universities in paris
+					- Chasles and Darboux
+						- Darboux and Houel launch Bulletin des sciences mathematiques 
+							- goal - open french mathematics to the world
+								- published translations of papers, comments on foreign papers
+					- Ecole normale superieure (ENS)
+						- during 1794 to 1860 ENS produced few top mathematicians
+						- Pasteur became dean of studies at ENS
+							- intention to transform ENS into a institution training academics
+							- convinced Darboux and Picard to attend ENS instead of Polytechnique which established decline of polytechnique
+						- 1870 - ENS 0, Polytechnique 6; 1924 ENS 7, Polytechnique 0
+						- Next generation 
+							- less brilliant and successful
+								- careers were much slower maybe the opportunities were not there 
+						- Great war affected many people
+							- half of graduates were killed in the war
+								- Gaston Julia was wounded but still wrote his thesis - didnt have half his face
+						- Generation without masters
+							- when post war students started their studies in 1920s most of professors were not so active 
+							- some sought inspiration by travling to germany, to gottingen, hamburg and elsewhere, where modern algebra was being developed
+						- 1930 - 40
+							- not much change in 1920's 
+							- paris is only university where they might have an impact
+							- nicolas bourbaki 
+						- 1945 - 55
+							- Bourbaki
+							- ICM in cambridge gave bourbaki members a big recognition with the fields medal for laurent schwartz and other invited speakers
+							- other fields medals followed for his students
+						- Leray Paradox
+							- fluid mechanics, partial differntial equations, major papers on 2d navier stokes equation
+							- pioneer in applied mathematics
+							- taken as a prisoner during the war
+							- understanding localize submarines was a big issue and didn't wnat to help germans
+							- decided to be mathematician and he invented spectral sequences and sheaf theory
+						- Bourbaki had inspiring but narrow perspective on mathematics
+							- pure mathematics is better and not all of mathematics is interesting
+							- some fields lauded (number theory, algebraic geometry) others were looked down upon
+						- Polytechnique resumed training research mathematics in early 60's
+						- Emergence of french school of applied mathematics
+							- Jacques louis lions
+								- ENS graduate
+								- evolution to applied mathematics in teh late 50's and 60's 
+								- Empire builders
+								- students were called french word for "baby of lions"
+						- Emergence of a french schoool of probability theory
+							- 1972 - oil crisis
+							- 73 - 75 - brutal end to the expansion of the university system
+							- beginning of a very difficult decade
+						- Gender issues - 1985 disasters
+							- there was as school to train feamle students
+							- ENS de jeunes filles
+							- originally created to train women to teach in high schools for girls, it changed its focus in the 1950s to prepare its students for research
+							- 1985 ENS and ENSJF merged and in mathematics and physics the number of women decreased substantially
+							- major negative impact in the number of women engaged in academic careers in mathematics
+					- impact of a pro research agenda
+						- increase in research funding
+						- positive impact on science and research 
+						- % of french speakers in ICM has been increasing since 1950's 
+						- no. of fields's medals also increased 
+				- Concl. **Why is french mathematics so strong**
+					-  tradition - good teachers attract good students
+					- prejudice still exists against applied mathematics in some circles but situation bw pure/applied is balanced
+					- mathematics is cheaper and does not require big infrastructures
+					- Mathematics has a central role by tradition because they rely very much on competitive exams
+					- there are fluctuations, french mathematics is strong but the future is never guaranteed
+
