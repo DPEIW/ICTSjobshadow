@@ -1,2 +1,2 @@
 # ICTSjobshadow
-Website with what I did in ICTS
+Website containing all my resources created during job shadow program at ICTS
