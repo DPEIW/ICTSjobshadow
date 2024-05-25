@@ -37,4 +37,5 @@ Look through this book when bored so I can learn more about Linear Algebra. Teac
 Working on showing Autocorrelation code and understanding covariance matrix
 
 
-
+- interviewed bhuvaneshwari who is done with her bachelors degree and is at icts currently for a []
+- update in final report 
