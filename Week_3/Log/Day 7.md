@@ -4,9 +4,28 @@
 [eROSITA on SRG event](https://www.icts.res.in/event/page/28735)
 Highlights from the all sky survey
 - by Andrea Merloni ([MPE](https://www.mpe.mpg.de/eROSITA))
-	- 
-
-
+	- Cluster cosmology
+	- Clusters are exponentially sensitive tracers of structures
+		- Longer redshit -> further back in time it was 
+	- Counting experiment
+	- Signature of cluster is the hot extended xray wave 
+- eRosita is designed to detect > 10^5 clusters
+	- 7 identical telescopes
+		- Large reflective area
+		- Past telescope design -> unprecedented
+	- Optics -> Relatively good reliable identification
+	- Baffle -> Reduce stray light 
+		- 1 million pixels over 7 cameras
+- Largest reflective area in eRosita
+- FOV ~ 62 arcmin
+- Fastest Xray survey method
+	- Scans a large part of the sky
+	- ![[eRosita sky scan pattern]]
+- LMC prominent visible in eRosita
+	- Large Magellanic Cloud
+- TDE -> Tidal disruption events
+- CGM -> Circumgalactic medium
+	- Halo of gas and dust that surrounds galaxy. interstaller medium and stellar component 
 
 - all data of eROSITA can be found at [eROSITA data](https://erosita.mpe.mpg.de/dr1/)
 - every 50msec they readout the CCD (frame readout cycle)
