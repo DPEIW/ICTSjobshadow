@@ -28,7 +28,7 @@
       background-color: #b31d0f;
     }
   </style>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.1/showdown.min.js"></script>
+  <link rel="stylesheet" href="../styles.css"> 
 </head>
 <body>
   <div class="container">
@@ -38,44 +38,68 @@
         <button onclick="window.location.href='../index.html'">Index</button>
       </nav>
     </header>
-    <main>
-      <section id="week1">
-        <h2>Week 1</h2>
-        <p>Python notebooks and Markdown files of activities of Week 1</p>
-        <div id="day1-log"></div>
-        <div id="day2-log"></div>
-        <div id="day3-log"></div>
-        <div id="day4-log"></div>
-      </section>
-    </main>
-    <footer>
-      <!-- Add footer content if needed -->
-    </footer>
-  </div>
-  <script>
-    async function loadMarkdown(url, elementId) {
-      try {
-        const response = await fetch(url);
-        const markdown = await response.text();
-        const converter = new showdown.Converter();
-        const html = converter.makeHtml(markdown);
-        document.getElementById(elementId).innerHTML = html;
-      } catch (error) {
-        console.error('Error loading markdown file:', error);
-      }
-    }
+   
+  <section>
+      <h2>Day 1 - 6th May 2024</h2>
+      <p><strong>10:15</strong> - Reached ICTS and had breakfast.</p>
+      
+      <p><strong>10:30 to 11:30</strong> - Set up Visual Studio Code, tested Anaconda, and configured a Linux virtual machine.</p>
+      
+      <p><strong>11:30 to 1:00</strong> - Attended a lecture on Bayesian procedures, including notes on the <a href="https://www.black-holes.org/code/SpEC.html" target="_blank">Spectral Einstein Code (SpEC)</a> for simulating black hole systems.</p>
 
-    // Load each day's markdown file
-    loadMarkdown('https://DPEIW.github.io/ICTSjobshadow/Week_1/Log/Day%201.md', 'day1-log');
-    loadMarkdown('https://DPEIW.github.io/ICTSjobshadow/Week_1/Log/Day%202.md', 'day2-log');
-    loadMarkdown('https://DPEIW.github.io/ICTSjobshadow/Week_1/Log/Day%203.md', 'day3-log');
-    loadMarkdown('https://DPEIW.github.io/ICTSjobshadow/Week_1/Log/Day%203_athome.md', 'day4-log');
-  </script>
+      <p><strong>1:15 to 2:00</strong> - Lunch break.</p>
+      
+      <p><strong>2:00 to 2:30</strong> - Worked on Python assignments to learn about arrays and plotting graphs.</p>
+      <img src="Pasted image 20240506150028.png" alt="Assignment work" width="400">
 
-<div class="notebook">
-  <h2>Notebook Title</h2>
-  <iframe src="https://nbviewer.org/github/DPEIW/ICTSjobshadow/blob/main/Week_1/Notebooks/Day%201.ipynb" width="100%" height="500px"></iframe>
-</div>
+      <p><strong>2:30 to 4:00</strong> - Lecture on Linear Algebra, covering topics such as vector spaces, norms, and functionals.</p>
+      <img src="PastedImage20240506150418.png" alt="Linear Algebra Notes" width="400">
+
+      
+      <p><strong>Reflection:</strong> ICTS is a welcoming space with an open environment. This week, I aim to create a write-up about the researchers’ work and a GitHub repository of my Python activities.</p>
+
+      <p><a href="day1ipynb.html" target="_blank" class="button">View Jupyter Notebook for Day 1</a></p>
+  
+    </section>
+
+  <section>
+    <h2>Day 2 - 8th May 2024</h2>
+    <p><strong>10:30 to 11:15</strong> - Learned about normal distributions and probability contours on the way to ICTS.</p>
+
+    <p><strong>11:30</strong> - Visited ICTS’s supercomputer, "Sonic," learning about its architecture and capabilities for high-performance and high-throughput computing.</p>
+
+    <p><strong>12:00 to 1:00</strong> - Participated in a group discussion on recent astrophysics research papers from <a href="https://arxiv.org/" target="_blank">arXiv</a>, led by PhD fellows. Topics included gravitational-wave selection effects, lensing, and black hole mergers. 
+    <a href="meeting-notes.html" target="_blank">View meeting notes</a></p>
+
+    <p><strong>2:00 to end of day</strong> - Worked on a Python notebook for extracting parameters from a damped sinusoid wave. (See "Day 2 Assignment" notebook for details.)</p>
+
+    <p><strong>Reflection:</strong> Today, I was inspired by the use of high-power computing for solving real-world scientific problems, different from commercial tech applications.</p>
+</section>
+
+
+  <section>
+      <h2>Day 3 - 9th May 2024</h2>
+      <p>Focused on Python and concepts related to gravitational wave analysis. Learned about:</p>
+      <ul>
+          <li>LIGO detectors and the physics of gravitational waves.</li>
+          <li>Bayesian inference, data analysis techniques, and parameter estimation for gravitational wave data.</li>
+          <li>Covariance matrix and Fourier transforms in data processing.</li>
+      </ul>
+      <p>Continued working on Python assignments in Jupyter Notebooks, diving deeper into numerical analysis methods.</p>
+  </section>
+
+  <section>
+      <h2>Day 3 at Home - 13th May 2024</h2>
+      <p>Set up the Windows Subsystem for Linux (WSL) for an integrated development environment. Installed necessary software:</p>
+      <ul>
+          <li>Anaconda, Git, and VSCode extensions for SSH</li>
+          <li>GUI apps like Firefox and Nautilus for a complete Linux experience</li>
+      </ul>
+      <p>Reviewed and explored resources on parameter estimation.</p>
+      <img src="Pasted image 20240514121747.png" alt="WSL Setup" width="600">
+  </section>
+
+
 
 </body>
 </html>
